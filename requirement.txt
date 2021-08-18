@@ -6,3 +6,6 @@ colors
 
 dark
 video option
+
+payment option
+send money
